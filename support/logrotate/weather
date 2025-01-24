@@ -1,0 +1,10 @@
+/var/weather/error.log {
+        daily
+        notifempty
+        missingok
+        size 500k
+        copytruncate
+        rotate 10
+        start 0
+        compress
+}

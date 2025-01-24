@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Apache/commons-configuration-1.10.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Apache/commons-configuration-1.6/docs/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Apache/commons-lang-2.6.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Apache/commons-lang-2.6/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sdcoh/Documents/OneWireAPI/lib/OneWireAPI.jar" sourcepath="C:/OneWireAPI/src/OneWireAPIsrc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_191/lib/ext/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/postgresql-9.2-1000.jdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/commons-cli-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
