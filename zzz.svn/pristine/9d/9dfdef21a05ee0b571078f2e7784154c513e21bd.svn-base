@@ -1,3 +1,0 @@
-* * * * * /home/weather/uploadWeatherData.sh >/var/weather/ftpdata.log 2>&1
-0-59 * * * * /home/weather/uploadWeatherStats.sh >/var/weather/ftpstats.log 2>&1
-0,5,10,15,20,25,30,35,40,45,50,55 * * * * /home/weather/uploadWeatherHistory.sh >/var/weather/ftphistory.log 2>&1
