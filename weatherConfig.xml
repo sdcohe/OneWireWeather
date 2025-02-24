@@ -138,16 +138,16 @@
 
 	<publishers>
 		<weatherUnderground>
-			<userName>KMDGERMA9</userName>
-			<password>mr-pest</password>
+			<userName></userName>
+			<password></password>
 			<URL>rtupdate.wunderground.com</URL>
 			<updateInterval>5000</updateInterval>
 			<debugFlag>false</debugFlag>
 			<enableFlag>true</enableFlag>
 		</weatherUnderground>
 		<CWOP>
-			<userName>KB3HHA</userName>
-			<password>17321</password>
+			<userName></userName>
+			<password></password>
 			<server>rotate.aprs.net</server>
 			<updateIntervalInMinutes>5</updateIntervalInMinutes>
 			<port>14580</port>
@@ -156,16 +156,16 @@
 			<uploadMinute>7</uploadMinute>
 		</CWOP>
 		<weatherForYou>
-			<userID>AS787</userID>
-			<password>mr-pest</password>
+			<userID></userID>
+			<password></password>
 			<URL>www.hamweather.net</URL>
 			<updateInterval>30</updateInterval>
 			<debugFlag>false</debugFlag>
 			<enableFlag>true</enableFlag>
 		</weatherForYou>
 		<backyardWeather>
-			<publisherID>p15087</publisherID>
-			<password>mr-pest</password>
+			<publisherID></publisherID>
+			<password></password>
 			<Url>data.backyard2.weatherbug.com</Url>
 			<stationNumber>26683</stationNumber>
 			<updateInterval>1</updateInterval>
@@ -177,7 +177,7 @@
 			<debugFlag>false</debugFlag>
 			<enableFlag>true</enableFlag>
 			<PersistFlag>false</PersistFlag>
-			<connectString>jdbc:postgresql://192.168.123.15/weather?user=weather&amp;password=ru4real
+			<connectString>jdbc:postgresql://192.168.123.15/weather?user=&amp;password=
 			</connectString>
 		</database>
 	</publishers>
